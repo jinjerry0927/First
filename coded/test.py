@@ -10,6 +10,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+print("I love you")
 print("원하는 연산을 선택하세요")
 print("1. 덧셈")
 print("2. 뺄셈")
@@ -40,4 +41,4 @@ while(True):
         
     else:
         print("잘못된 입력입니다")
-        
+    
